@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pepesan/Downloads/androidexamples03listviewremove/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="096c380922d7ac4b1b0553649287a5f299bd5036">
+        <dex dex="/Users/pepesan/Downloads/androidexamples03listviewremove/app/build/intermediates/pre-dexed/debug/instant-run_72f5fd2ddfc1399475e3c43a8b74199c085c8e09.jar" />
+    </item>
+    <item
+        jar="/Users/pepesan/Downloads/androidexamples03listviewremove/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3eafdd082340491c0981b2c1bee9e9d2293ccb7">
+        <dex dex="/Users/pepesan/Downloads/androidexamples03listviewremove/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_8baffa4297c73dfe2e87be9defcb3c90bda51707.jar" />
+    </item>
+
+</items>
